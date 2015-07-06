@@ -1,0 +1,20 @@
+
+PCB Lable	Description		Footprint	Value		Part#
+LED1-9		0603 SMD LED
+PWR		3mm LED	
+RUN		3mm LED
+R1-9		0603 SMD Resistor
+R10		1/4 THT
+R11
+R12
+R13
+C1,C2		Ceramic Capacitor			22pF
+C3,C4		Ceramic Capacitor			.1uF
+C5-7		Electolytic Capacitor			100uF
+D1-9		DO-213AA 
+U1		ATMEGA328P-PU
+DA1		Darrlington Array
+Q1		NPN Transistor
+XTAL1		Timing Crystal				16Mhz
+
+		
